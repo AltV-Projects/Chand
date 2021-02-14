@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Chand": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\dat_m\\OneDrive\\Dokumente\\Coding\\altV-Server\\altv-server.exe",
+      "workingDirectory": "C:\\Users\\dat_m\\OneDrive\\Dokumente\\Coding\\altV-Server"
+    }
+  }
+}
